@@ -1,4 +1,4 @@
-# Predikcija-fudbalskih-rezultata
+# Predikcija fudbalskih rezultata
 
 Predikcija fudbalskih rezultata je izazovan zadatak zbog mnogih faktora koji utječu na ishod utakmica. U ovom radu istraživana je primjena mašinskog učenja za predviđanje rezultata utakmica, te su analizirane performanse različitih algoritama.
 Nakon prikupljanja podataka o fudbalskim utakmicama pomoću tehnika web-scrapinga, implementirano je nekoliko modela mašinskog učenja, uključujući Random Forest, AdaBoost, Decision Tree i mnoge druge.
